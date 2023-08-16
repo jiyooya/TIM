@@ -1,4 +1,17 @@
-#제작동기
+# 제작동기
+글자, 색, 모양, 재형 등을 고르면 약의 정보를 손쉽게 찾아 볼 수 있는 약학정보원 홈페이지에서 분류에 따라 고르는
+시스템을 차용할 수 있는 쇼핑몰 형태의 홈페이지를 구상했다.
+![image](https://github.com/jiyooya/TIM/assets/127083635/a4c6707b-e926-4f9a-917d-8941ad519353)
+
+# 목표
+메뉴 커스텀 방식을 사용하고 있는 샌드위치 프렌차이즈 홈페이지와 샐러드 정기배송을 지원하고 있는 홈페이지를 참고하여 만들었다.
+![image](https://github.com/jiyooya/TIM/assets/127083635/bd6a8bd2-c3f0-4e77-9a46-da84b0a16950)
+
+# 개발환경
+![image](https://github.com/jiyooya/TIM/assets/127083635/b5b98047-d3ce-41d6-885e-e8d97553dee1)
+
+# ER 다이어그램
+![image](https://github.com/jiyooya/TIM/assets/127083635/a7926940-a2c0-440e-b096-d9f452f72f5a)
 
 # 결제페이지
 로그인한 사용자의 ID의 정보와 선택한 매장 정보, 주문할 상품의 정보, 수량, 금액의 데이터들을 
