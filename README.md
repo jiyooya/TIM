@@ -39,9 +39,10 @@
 ### 데이터 표시 기능
 ▶장바구니 페이지 또는 상세 제품 페이지에서 선택한 상품명, 사용자가 직접 선택한 재료, 수량, 금액 등의 정보를 수집하여 화면에 표시합니다. 사용자가 보유한 포인트를 사용하기로 결정하면, 콜백 함수를 통해 총 주문금액에서 사용 포인트를 제외한 최종 결제금액을 계산하고 이를 화면에 표시하도록 구현하였습니다.
 
-상세 페이지 데이터 표시
+![상세 페이지 데이터 표시](https://img.shields.io/badge/상세페이지데이터표시-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![상세페이지](https://github.com/jiyooya/TIM/assets/127083635/a2fa4b95-1f20-45bc-8368-dabec8d35fbb)
-장바구니 페이지 데이터 표시
+
+![장바구니](https://img.shields.io/badge/장바구니페이지데이터표시-43853D?style=for-the-badge&logoColor=white)
 ![장바구니](https://github.com/jiyooya/TIM/assets/127083635/71cb7287-af8f-419e-8b3a-b26a0fcee8e8)
 
 ▶구매 조건에 동의하는 체크박스에 체크하지 않은 상태에서 '결제하기' 버튼을 클릭하면, 사용자에게 동의를 요청하는 안내 메시지가 출력되도록 설정하였습니다. 또한, 동의 체크박스에 체크한 후 '결제하기' 버튼을 누를 경우, 주문 취소가 불가능하다는 사실을 알리는 안내 메시지가 추가로 표시되도록 하였습니다.
