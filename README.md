@@ -10,9 +10,11 @@
 # 개발환경
 ![개발환경](https://github.com/jiyooya/TIM/assets/127083635/4e0e358d-66fd-4bf1-9341-4bd740207834)
 
-
 # ER 다이어그램
 ![image](https://github.com/jiyooya/TIM/assets/127083635/a7926940-a2c0-440e-b096-d9f452f72f5a)
+
+# 메뉴 구조
+![메뉴구조도](https://github.com/jiyooya/TIM/assets/127083635/a55e6c78-d3dd-4d31-93f1-3d4951fd206f)
 
 # 맡은 역할
 로그인한 ID에서 상세제품 페이지 또는 장바구니 페이지에서 선택한 매장과 상품의 정보의 데이터를 받아 와 결제페이지 화면으로 넘기는 역할을 했습니다.
