@@ -8,7 +8,8 @@
 ![image](https://github.com/jiyooya/TIM/assets/127083635/bd6a8bd2-c3f0-4e77-9a46-da84b0a16950)
 
 # 개발환경
-![image](https://github.com/jiyooya/TIM/assets/127083635/b5b98047-d3ce-41d6-885e-e8d97553dee1)
+![Uploading 개발환경.jpg…]()
+
 
 # ER 다이어그램
 ![image](https://github.com/jiyooya/TIM/assets/127083635/a7926940-a2c0-440e-b096-d9f452f72f5a)
