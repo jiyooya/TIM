@@ -51,8 +51,9 @@
 # 주문완료페이지
 ▶자바의 Random 함수를 활용하여 주문번호를 생성하도록 구현하였습니다. 결제 페이지와 마찬가지로 매장 정보, 사용자 ID 정보, 그리고 주문 내역을 데이터로 받아 왔습니다. 마지막으로, 결제 금액에 대한 일정 비율의 포인트가 적립되도록 기능을 추가하였습니다.
 
-![주문 상세 내역 2](https://github.com/jiyooya/TIM/assets/127083635/e2536227-363b-483b-86d6-a67f3eba1fbc)
-![주문 상세 내역 1](https://github.com/jiyooya/TIM/assets/127083635/448bb693-9c6b-4c5b-a89d-6451518fab62)
+![주문 상세 내역 페이지](https://github.com/jiyooya/TIM/assets/127083635/8491a0ef-a9ca-4a0d-8825-6288ec66020b)
+![주문 상세 내역 2](https://github.com/jiyooya/TIM/assets/127083635/0593b41e-d9b7-4a54-826c-54359264802a)
+![주문 상세 내역 1](https://github.com/jiyooya/TIM/assets/127083635/2eb372a2-4d98-4056-b11b-08bb8a0aa57f)
 
 # 로그인 사용자의 포인트 적립 현황 확인하기
 ▶결제가 완료되면, 결제 금액의 일정 비율이 포인트가 데이터베이스에서 자신의 ID에 적립된 포인트를 확인할 수 있습니다.
