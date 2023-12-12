@@ -57,9 +57,9 @@
 
 ![image](https://github.com/jiyooya/TIM/assets/127083635/56bca965-9b82-4e22-aa20-9c8c73aec34c)
 
-# 결제페이지 시연 영상
+# 로그인 사용자의 포인트 적립 현황 확인하기
+![DB](https://github.com/jiyooya/TIM/assets/127083635/72ea6e2f-2463-4fe6-b006-21ce394a109d)
 
-![결제페이지 영상](https://github.com/jiyooya/TIM/assets/127083635/e51c6897-172c-43b1-92e4-954fab35d7fd)
 
 
 
